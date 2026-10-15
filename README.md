@@ -576,9 +576,9 @@
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | No | Unknown |
 | [API League](https://apileague.com) | World-class APIs in a single hub | `apiKey` | Yes |
 | [API Status Check](https://apistatuscheck.com) | Real-time status and uptime monitoring for 270+ APIs and services | No | Yes |
-| [APIFreaks](https://apifreaks.com) | WHOIS, DNS, IP geolocation, weather, currency, screenshot and validation APIs under one key | `apiKey` | Unknown |
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | No | Yes |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API for developers | `apiKey` | Unknown |
+| [APIFreaks](https://apifreaks.com) | WHOIS, DNS, IP geolocation, weather, currency, screenshot and validation APIs under one key | `apiKey` | Unknown |
 | [APILayer](https://apilayer.com) | APILayer is a unified API marketplace with 40+ production-ready APIs for finance, geolocation, weather, data, and AI. Trusted by 2.2M+ developers | No | Unknown |
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | No | Unknown |
 | [ApyHub: A Complete API Catalog](https://apyhub.com/catalog) | Build and ship applications that scale using certified APIs for every use case | `apiKey` | Yes |
